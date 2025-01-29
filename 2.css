@@ -2986,3 +2986,16 @@ html[data-abk*="show_homepage_oa3_activity=B"] .homepage-oa3-activity-card {
     width: auto;
   }
 }
+
+/* add my be 01.29.2025 */
+
+@media (min-width: 485px) and (max-width: 1024px) {
+  .products-banner-list {
+    display: grid !important;
+    grid-template-columns: repeat(1, 1fr) !important;
+  }
+
+  .products-banner-item {
+    width: auto !important;
+  }
+}
