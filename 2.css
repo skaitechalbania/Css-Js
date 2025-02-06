@@ -813,7 +813,7 @@ section.homepage-banner {
   height: 800px;
   width: 100%;
   background-color: #ededed;
-  z-index: 800;
+  /* z-index: 800; */
 }
 section.homepage-banner .cookie-tip {
   display: none;
