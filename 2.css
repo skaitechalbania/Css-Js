@@ -1483,7 +1483,7 @@ section.homepage-products-banner
   li.products-banner-item {
   position: relative;
   width: calc(50vw - 24px);
-  height: 696px;
+  height: 500px; /* edit for wordpress part , the original was 696px */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
