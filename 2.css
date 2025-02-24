@@ -2847,7 +2847,7 @@ html[data-abk*="show_homepage_oa3_activity=B"] .homepage-oa3-activity-card {
   section.homepage-products-banner
     ul.products-banner-list
     li.products-banner-item {
-    height: 488px;
+    height: 450px; /* 48 */
   }
   section.homepage-child-module,
   section.homepage-stories-module {
@@ -2888,7 +2888,7 @@ html[data-abk*="show_homepage_oa3_activity=B"] .homepage-oa3-activity-card {
     ul.stories-module-list
     li.stories-module-item {
     width: calc(50% - 8px);
-    height: 488px;
+    height: 450px; /* 488px */
   }
   section.homepage-stories-module
     ul.stories-module-list
